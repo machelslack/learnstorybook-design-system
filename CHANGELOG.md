@@ -1,3 +1,15 @@
+# v0.1.7 (Sat Jun 04 2022)
+
+#### ⚠️ Pushed to `master`
+
+- added typescript ([@machelslack](https://github.com/machelslack))
+
+#### Authors: 1
+
+- [@machelslack](https://github.com/machelslack)
+
+---
+
 # v0.1.6 (Sat Jun 04 2022)
 
 #### ⚠️ Pushed to `master`
