@@ -1,5 +1,17 @@
 # v0.1.5 (Sat Jun 04 2022)
 
+#### ⚠️ Pushed to `master`
+
+- updatedbabel config foe es modules ([@machelslack](https://github.com/machelslack))
+
+#### Authors: 1
+
+- [@machelslack](https://github.com/machelslack)
+
+---
+
+# v0.1.5 (Sat Jun 04 2022)
+
 
 
 ---
