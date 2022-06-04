@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 import { color, typography } from './shared/styles';
-import { Icon } from './Icon';
 
 export const sizes = {
   large: 40,
@@ -93,7 +92,7 @@ const Initial = styled.div`
 `;
 
 export function Avatar({ loading, username, src, size, ...props }) {
-  let avatarFigure = <Icon icon="useralt" />;
+  let avatarFigure = <div className="icon" />;
   const a11yProps = {};
 
   if (loading) {
