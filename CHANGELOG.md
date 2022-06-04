@@ -1,3 +1,15 @@
+# v0.1.2 (Sat Jun 04 2022)
+
+#### ⚠️ Pushed to `master`
+
+- changing build path to disy ([@machelslack](https://github.com/machelslack))
+
+#### Authors: 1
+
+- [@machelslack](https://github.com/machelslack)
+
+---
+
 # v0.1.1 (Sat Jun 04 2022)
 
 #### ⚠️ Pushed to `master`
