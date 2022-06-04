@@ -1,6 +1,6 @@
 {
   "name": "@small-island-labs/learnstorybook-design-system-template",
-  "version": "0.1.0",
+  "version": "0.1.1--canary.1002f8c.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "release": "auto shipit --base-branch=main"
+    "release": "auto shipit --base-branch=master"
   },
   "eslintConfig": {
     "extends": [
