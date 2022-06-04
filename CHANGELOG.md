@@ -1,3 +1,15 @@
+# v0.1.8 (Sat Jun 04 2022)
+
+#### ⚠️ Pushed to `master`
+
+- updated tsconfig ([@machelslack](https://github.com/machelslack))
+
+#### Authors: 1
+
+- [@machelslack](https://github.com/machelslack)
+
+---
+
 # v0.1.7 (Sat Jun 04 2022)
 
 #### ⚠️ Pushed to `master`
