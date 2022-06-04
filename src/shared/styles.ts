@@ -1,5 +1,5 @@
 // Global style variables
-export const background = {
+export const background:any = {
   app: '#F6F9FC',
   appInverse: '#7A8997',
   positive: '#E1FFD4',
@@ -7,7 +7,7 @@ export const background = {
   warning: '#FFF5CF',
 };
 
-export const color = {
+export const color:any = {
   // Palette
   primary: '#FF4785', // coral
   secondary: '#1EA7FD', // ocean
@@ -39,7 +39,7 @@ export const color = {
   warning: '#E69D00',
 };
 
-export const spacing = {
+export const spacing:any = {
   padding: {
     small: 10,
     medium: 20,
@@ -51,7 +51,7 @@ export const spacing = {
   },
 };
 
-export const typography = {
+export const typography:any = {
   type: {
     primary: '"Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif',
     code: '"SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace',
