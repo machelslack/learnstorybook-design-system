@@ -1,5 +1,5 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@small-island-labs/learnstorybook-design-system-template",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
